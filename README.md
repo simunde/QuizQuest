@@ -18,7 +18,7 @@ The QuizQuest App is an interactive quiz platform designed to provide users with
 ## Installation
 **Clone this repository:**
 ```
-git clone https://github.com/yourgithub/quizquest.git
+git clone https://github.com/simunde/quizquest.git
 
 ```
 **Open the project in Android Studio.**
