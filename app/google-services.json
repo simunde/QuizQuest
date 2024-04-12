@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968065579949",
+    "project_id": "quizquest-fee1d",
+    "storage_bucket": "quizquest-fee1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968065579949:android:d3c01a1f3f066853063f24",
+        "android_client_info": {
+          "package_name": "com.msid.quizquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAukw2Xui8H77m-1y8Y-ud6yFRTsLLu-GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
