@@ -7,7 +7,7 @@ The QuizQuest App is an interactive quiz platform designed to provide users with
 - **Quiz Taking:** Users can take quizzes on different subjects and topics.
 
 ## Screenshots
-<img src="images/quiz_home.png" alt="Home Screen" width="150"/> <img src="images/quiz_question.png" alt="Quiz Question" width="150"/> <img src="images/quiz_result.png" alt="Quiz Result" width="150"/>
+<img src="images/homescreen.png" alt="Home Screen" width="300"/> <img src="images/questions.png" alt="Quiz Question" width="300"/> <img src="images/result.png" alt="Quiz Result" width="300"/>
 
 ## Getting Started
 ### Prerequisites
