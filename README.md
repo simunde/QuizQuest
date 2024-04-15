@@ -37,7 +37,7 @@ Select a device or emulator.
 Run the application.
 
 # Support
-If you encounter any issues or have questions, please contact [your email address].
+If you encounter any issues or have questions, please contact sidmundece17@gmail.com.
 
 # Contributing
 Contributions are welcome! Please read our Contributing Guide for more information on making pull requests.
